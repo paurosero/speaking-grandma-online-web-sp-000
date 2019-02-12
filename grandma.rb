@@ -1,7 +1,7 @@
 def speak_to_grandma(phrase)
  if phrase
    "HUH?! SPEAK UP, SONNY!"
- elsif " ".uppercase
+ elsif "phrase".uppercase
    "NO, NOT SINCE 1938!"
 
  end
